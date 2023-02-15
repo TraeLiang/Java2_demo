@@ -22,8 +22,6 @@ public class Lab1_1 {
             System.out.print("The two array have the different value");
             System.out.print("The two array have the different value");
             System.out.print("The two array have the different value");
-            System.out.print("The two array have the different value");
-//            System.out.print("The two array have the different value");
 
 
 
